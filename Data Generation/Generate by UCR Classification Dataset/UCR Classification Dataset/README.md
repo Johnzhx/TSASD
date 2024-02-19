@@ -8,6 +8,6 @@ https://www.dropbox.com/scl/fi/efnqmhoul18b1hr5up63f/UCR-Classification-Dataset.
 
 or
 
-https://pan.baidu.com/s/1KzrcmlnQuu9BsXvzuijvGQ?pwd=wy53
+https://pan.baidu.com/s/1E3QEuhTPuNsTJCp-hv0fRw?pwd=yf77
 
 or by yourself.
