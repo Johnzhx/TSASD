@@ -12,3 +12,21 @@ Finally, through a large number of experiments, we fairly compare the actual per
 If you use TSASD in your project or research, cite the following two papers:
 
 * [Zhou2024Understanding](https://arxiv.org/pdf/2402.02007v1.pdf)
+
+
+### References
+
+> "Understanding Time Series Anomaly State Detection through One-Class Classification" <br/>
+> Zhou, H., Zhang, Y., Leng, G., Wang, R., & Xu, Z. Q. J. <br/>
+> arXiv preprint arXiv:2402.02007, 2024 <br/>
+
+```bibtex
+@article{zhou2024understanding,
+  title={Understanding Time Series Anomaly State Detection through One-Class Classification},
+  author={Zhou, Hanxu and Zhang, Yuan and Leng, Guangjie and Wang, Ruofan and Xu, Zhi-Qin John},
+  journal={arXiv preprint arXiv:2402.02007},
+  year={2024}
+}
+```
+
+### TODO
