@@ -88,7 +88,7 @@ def DataGenerator(X, y, n_class, class_choosen, healthy_ratio = 0.5, order_anoma
 if __name__=='__main__': 
     
     time_0 = time.time()
-    data_path = "AnomalyDetection_UCR_classification\\*"
+    data_path = "UCR Classification Dataset\\*"
 
     data_paths = sorted(glob.glob(os.path.join(data_path, '*')))
     print('We have %s files in data_path.'%(len(data_paths)))
